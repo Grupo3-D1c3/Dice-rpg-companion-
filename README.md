@@ -7,11 +7,15 @@ Link do Padlet: https://padlet.com/kawanribeiro/my-fearless-padlet-5sx2mkpku1hdj
 
 ## 1. Introdução
 
-***1.1.  Nome do Grupo***
+***1.1. Nome do grupo 3: D1c3 ***
 
-Indicar o nome e github dos integrantes do grupo
+João Marcos Ribeiro da Costa (https://github.com/JoaoMarcosRibeiroCosta)
+Kawan Yukio Ribeiro
+Ronaldo
+Rodolfo
+Lucas
 
-***1.2.  Nome do Sistema***
+***1.2.  Nome do Sistema: D1c3 RPG companion***
 
 Indicar o nome do software proposto
 
