@@ -11,27 +11,27 @@ Link do Padlet: https://padlet.com/kawanribeiro/my-fearless-padlet-5sx2mkpku1hdj
 
 João Marcos Ribeiro da Costa (https://github.com/JoaoMarcosRibeiroCosta)
 Kawan Yukio Ribeiro
-Ronaldo
-Rodolfo
-Lucas
+Ronaldo Azevedo
+Rodolfo Depieri Gindri
+Lucas Nicolette
 
 ***1.2.  Nome do Sistema: D1c3 RPG companion***
 
-Indicar o nome do software proposto
+D1c3
 
 ***1.3.  Propósito do Sistema***
 
-Este documento apresenta os requisitos dos usuários a serem desenvolvidos pela *`nome da empresa`*, fornecendo aos desenvolvedores as informações necessárias para o projeto e implementação, assim como para a realização dos testes e homologação do sistema.
+  O sistema possui o propósito de permitir que a interação em sessões de RPG sejam mais dinâmicas e intuitivas, permitindo que os usuários aprendam a jogar de maneira mais simplificada, contendo dicas de como se realizar ações, desde as mais simples,
+até as mais complexas, sem quebrar as regras do jogo.
 
-O objetivo do sistema `nome do sistema` é .... *<Descrever aqui o objetivo do sistema que será desenvolvido, principais características, benefícios, problemas que o sistema ajudará a resolver, o comportamento principal do sistema, etc.>*
+***1.4.  Público Alvo***
 
-***1.2.  Público Alvo***
+  O público alvo se baseia em jogadores, tanto novatos, quanto os mais experientes, que tenham interesse em torna a jogatina de RPG, mais simplificada e prática, de modo que todos possam aprender a jogar, do básico, até melhorar as técnicas daqueles
+que já jogam há mais tempo.
 
-Este documento se destina aos arquitetos de software, engenheiros de software, testadores, clientes... *<descrever aqui se existir mais interessados e que participarão do desenvolvimento do sistema>*
+***1.5. Descrição dos usuários***
 
-***1.3. Descrição dos usuários***
 
-*<Descrever quais os usuários finais do sistema (quem vai utilizar o sistema). Neste espaço vocês vão traçar um perfil de usuário, bem como as personas e análide de tarefas>*
 
 ***Personas:***
 
