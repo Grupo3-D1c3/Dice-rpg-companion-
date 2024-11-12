@@ -61,11 +61,20 @@ que já jogam há mais tempo.
 
 ***2.1. Requisitos Funcionais***
 
-*<Link, imagem, arquivo com os requisitos funcionais.>*
+RF01 - O sistema deve permitir o cadastro de jogador
+RF02 - O sistema deve permitir deve permitir o login de jogador e mestre, por áreas separadas
+RF03 - O sistema deve permitir deve conter avatares para manipulação do mestre
+RF04 - O sistema deve permitir deve permitir a alteração da ficha dos jogadores
+RF05 - O sistema deve permitir o armazenamento das fichas
+RF06 - O sistema deve conter um apontamento feito pelo mestre para que o jogadores tenham noção de onde estão no mapa
+RF07 - O sistema deve permitir que os usuários solicitem a criação de vinculo (amizade) entre os jogadores
+RF08 - O sistema deve permitir o cadastro de mestre, com seus requisitos próprios 
+RF09 - O sistema deve permitir que  o mestre tenha acesso a um guia de como gerir o jogo
+RF10 - O sistema deve permitir o cadastro de mapas e seus próprios monstros
+RF11 - O sistema deve permitir o cadastro de um sistema de recomenpsas gerados apartir da rolagem dos dados
 
 ***2.2. Requisitos Não Funcionais***
 
-*<Link, imagem, arquivo com os requisitos não funcionais.>*
 
 ***2.3. Perguntas***
 
