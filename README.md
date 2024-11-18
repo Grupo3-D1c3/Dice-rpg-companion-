@@ -13,7 +13,7 @@ João Marcos Ribeiro da Costa (https://github.com/JoaoMarcosRibeiroCosta)
 Kawan Yukio Ribeiro
 Ronaldo Azevedo
 Rodolfo Depieri Gindri
-Lucas Nicolette
+Lucas Nicoletti
 
 ***1.2.  Nome do Sistema: D1c3 RPG companion***
 
