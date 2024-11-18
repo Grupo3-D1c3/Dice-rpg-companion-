@@ -61,17 +61,17 @@ que já jogam há mais tempo.
 
 ***2.1. Requisitos Funcionais***
 
-RF01 - O sistema deve permitir o cadastro de jogador
-RF02 - O sistema deve permitir deve permitir o login de jogador e mestre, por áreas separadas
-RF03 - O sistema deve permitir deve conter avatares para manipulação do mestre
-RF04 - O sistema deve permitir deve permitir a alteração da ficha dos jogadores
-RF05 - O sistema deve permitir o armazenamento das fichas
-RF06 - O sistema deve conter um apontamento feito pelo mestre para que o jogadores tenham noção de onde estão no mapa
-RF07 - O sistema deve permitir que os usuários solicitem a criação de vinculo (amizade) entre os jogadores
-RF08 - O sistema deve permitir o cadastro de mestre, com seus requisitos próprios 
-RF09 - O sistema deve permitir que  o mestre tenha acesso a um guia de como gerir o jogo
-RF10 - O sistema deve permitir o cadastro de mapas e seus próprios monstros
-RF11 - O sistema deve permitir o cadastro de um sistema de recomenpsas gerados apartir da rolagem dos dados
+RF01 - O sistema deve permitir o cadastro de jogador<br/>
+RF02 - O sistema deve permitir deve permitir o login de jogador e mestre, por áreas separadas<br/>
+RF03 - O sistema deve permitir deve conter avatares para manipulação do mestre<br/>
+RF04 - O sistema deve permitir deve permitir a alteração da ficha dos jogadores<br/>
+RF05 - O sistema deve permitir o armazenamento das fichas<br/>
+RF06 - O sistema deve conter um apontamento feito pelo mestre para que o jogadores tenham noção de onde estão no mapa<br/>
+RF07 - O sistema deve permitir que os usuários solicitem a criação de vinculo (amizade) entre os jogadores<br/>
+RF08 - O sistema deve permitir o cadastro de mestre, com seus requisitos próprios<br/>
+RF09 - O sistema deve permitir que  o mestre tenha acesso a um guia de como gerir o jogo<br/>
+RF10 - O sistema deve permitir o cadastro de mapas e seus próprios monstros<br/>
+RF11 - O sistema deve permitir o cadastro de um sistema de recomenpsas gerados apartir da rolagem dos dados<br/>
 
 ***2.2. Requisitos Não Funcionais***
 
