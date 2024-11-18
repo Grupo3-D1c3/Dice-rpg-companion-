@@ -9,11 +9,11 @@ Link do Padlet: https://padlet.com/kawanribeiro/my-fearless-padlet-5sx2mkpku1hdj
 
 ***1.1. Nome do grupo 3: D1c3 ***
 
-João Marcos Ribeiro da Costa (https://github.com/JoaoMarcosRibeiroCosta)
-Kawan Yukio Ribeiro
-Ronaldo Azevedo
-Rodolfo Depieri Gindri
-Lucas Nicoletti
+João Marcos Ribeiro da Costa (https://github.com/JoaoMarcosRibeiroCosta)<br/>
+Kawan Yukio Ribeiro<br/>
+Ronaldo Azevedo<br/>
+Rodolfo Depieri Gindri<br/>
+Lucas Nicoletti<br/>
 
 ***1.2.  Nome do Sistema: D1c3 RPG companion***
 
