@@ -34,8 +34,9 @@ que já jogam há mais tempo.
 
 
 ***Personas:***
+Persona 1:
+[Apresentacao.Grafica.de.Persona.Terapeuta.Divertido.Rosa (1).pdf](https://github.com/user-attachments/files/17807760/Apresentacao.Grafica.de.Persona.Terapeuta.Divertido.Rosa.1.pdf)
 
-[Apresentação Gráfica de Persona Terapeuta Divertido Rosa.pdf](https://github.com/user-attachments/files/17807744/Apresentacao.Grafica.de.Persona.Terapeuta.Divertido.Rosa.pdf)
 
 ***Análise da situação atual: antes da introdução de sua solução***
 
