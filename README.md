@@ -66,8 +66,9 @@ Persona 1:
 
 ***2.1. Requisitos Funcionais***
 
-RF01 - O sistema deve permitir o cadastro de jogador - Alta <br/>
-RF02 - O sistema deve permitir deve permitir o login de jogador e mestre, por áreas separadas - Alta<br/>
+
+RF01 - O sistema deve permitir o cadastro de jogador - Alta - Dependente de: RNF01 <br/>
+RF02 - O sistema deve permitir deve permitir o login de jogador e mestre, por áreas separadas - Alta- Depende de RF01,RF08 <br/>
 RF03 - O sistema deve permitir deve conter avatares para manipulação do mestre - Média <br/>
 RF04 - O sistema deve permitir deve permitir a alteração da ficha dos jogadores - Alta<br/>
 RF05 - O sistema deve permitir o armazenamento das fichas - Alta<br/>
