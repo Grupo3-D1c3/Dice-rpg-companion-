@@ -39,6 +39,8 @@ Persona 1:
 ![Apresentação Gráfica de Persona Terapeuta Divertido Rosa](https://github.com/user-attachments/assets/7529d601-9aed-4d3e-ac20-6dcb92795c02)
 
 
+![Apresentacao Grafica de Persona Terapeuta Divertido Rosa (1)_page-0001](https://github.com/user-attachments/assets/bcc7c7d6-a74b-427e-bdda-805cd753bec0)
+
 
 ***Análise da situação atual: antes da introdução de sua solução***
 
