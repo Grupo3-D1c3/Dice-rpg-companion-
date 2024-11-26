@@ -82,7 +82,7 @@ Persona 1:
 | RF10 | O sistema deve permitir o cadastro de mapas e seus próprios monstros | Baixa | |
 | RF11 | O sistema deve permitir o cadastro de um sistema de recomenpsas gerados apartir da rolagem dos dados | Alta | |
 
-<br>
+
 ***2.2. Requisitos Não Funcionais***
 |Identificador|<p style="text-align:center;">Descrição</p>|Prioridade|Dependencia|
 |:------:|-----------------------------------------------|:------:|:---------------:|
