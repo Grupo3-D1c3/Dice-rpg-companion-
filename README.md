@@ -10,10 +10,10 @@ Link do Padlet: https://padlet.com/kawanribeiro/my-fearless-padlet-5sx2mkpku1hdj
 ***1.1. Nome do grupo 3: D1c3 ***
 
 João Marcos Ribeiro da Costa (https://github.com/JoaoMarcosRibeiroCosta)<br/>
-Kawan Yukio Ribeiro<br/>
+Kawan Yukio Ribeiro (https://github.com/KawanRibeiro)<br/>
 Ronaldo Azevedo<br/>
 Rodolfo Depieri Gindri (https://github.com/RdGindri)<br/>
-Lucas Nicoletti<br/>
+Lucas Nicoletti Theobaldo (https://github.com/LucasTheobaldo)<br/>
 
 ***1.2.  Nome do Sistema: D1c3 RPG companion***
 
@@ -65,10 +65,7 @@ Persona 1:
 ## 2. Documentos gerais no repositório
 
 ***2.1. Requisitos Funcionais***
-
-<br>
-
-|Identificador|Descrição|Prioridade|Dependencia|
+|Identificador|<p style="text-align:center;">Descrição</p>|Prioridade|Dependencia|
 |:------:|-----------------------------------------------|:------:|:---------------:|
 | RF01 | O sistema deve permitir o cadastro de jogador | Alta | Dependente de: RNF01 |
 | RF02 | O sistema deve permitir deve permitir o login de jogador e mestre, por áreas separadas | Alta | Depende de RF01,RF08 |
@@ -82,6 +79,7 @@ Persona 1:
 | RF10 | O sistema deve permitir o cadastro de mapas e seus próprios monstros | Baixa | |
 | RF11 | O sistema deve permitir o cadastro de um sistema de recomenpsas gerados apartir da rolagem dos dados | Alta | |
 
+<br>
 
 ***2.2. Requisitos Não Funcionais***
 |Identificador|<p style="text-align:center;">Descrição</p>|Prioridade|Dependencia|
