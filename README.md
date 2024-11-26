@@ -105,7 +105,9 @@ A - (Perguntas a ser feita para o mestre)<br>
 5- O que você acharia interessante implementar na area do mestre.<br>
 B- (Perguntas para o Jogador)<br>
 6- O quanto seria util o aplicativo para ajuda na criação de ficha de personagem?<br>
-7- 
+7- O aplicativo ajuda a compreender mais facilmente as mecânicas referente a jogar RPG?<nr>
+8- O aplicativo desenvolve, em sua opinião, uma jogatina mais prática entre os jogadores?<br>
+9- O sistema permite que os usuários fiquem mais imersivo nas sessões?<br>
 
 ***2.4. Entrevista***
 
