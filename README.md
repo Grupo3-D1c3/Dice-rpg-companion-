@@ -66,30 +66,35 @@ Persona 1:
 
 ***2.1. Requisitos Funcionais***
 
+<br>
+|Identificador|<p style="text-align:center;">Descrição</p>|Prioridade|Dependencia|
+|:------:|-----------------------------------------------|:------:|:---------------:|
+| RF01 | O sistema deve permitir o cadastro de jogador | Alta | Dependente de: RNF01 |
+| RF02 | O sistema deve permitir deve permitir o login de jogador e mestre, por áreas separadas | Alta | Depende de RF01,RF08 |
+| RF03 | O sistema deve permitir deve conter avatares para manipulação do mestre | Média | |
+| RF04 | O sistema deve permitir deve permitir a alteração da ficha dos jogadores | Alta | |
+| RF05 | O sistema deve permitir o armazenamento das fichas | Alta | | 
+| RF06 | O sistema deve conter um apontamento feito pelo mestre para que o jogadores tenham noção de onde estão no mapa | Baixa | | 
+| RF07 | O sistema deve permitir que os usuários solicitem a criação de vinculo (amizade) entre os jogadores | Média | |
+| RF08 | O sistema deve permitir o cadastro de mestre, com seus requisitos próprios | Alta | |
+| RF09 | O sistema deve permitir que o mestre tenha acesso a um guia de como gerir o jogo | Média | |
+| RF10 | O sistema deve permitir o cadastro de mapas e seus próprios monstros | Baixa | |
+| RF11 | O sistema deve permitir o cadastro de um sistema de recomenpsas gerados apartir da rolagem dos dados | Alta | |
 
-RF01 - O sistema deve permitir o cadastro de jogador - Alta - Dependente de: RNF01 <br/>
-RF02 - O sistema deve permitir deve permitir o login de jogador e mestre, por áreas separadas - Alta- Depende de RF01,RF08 <br/>
-RF03 - O sistema deve permitir deve conter avatares para manipulação do mestre - Média <br/>
-RF04 - O sistema deve permitir deve permitir a alteração da ficha dos jogadores - Alta<br/>
-RF05 - O sistema deve permitir o armazenamento das fichas - Alta<br/>
-RF06 - O sistema deve conter um apontamento feito pelo mestre para que o jogadores tenham noção de onde estão no mapa - Baixa<br/>
-RF07 - O sistema deve permitir que os usuários solicitem a criação de vinculo (amizade) entre os jogadores - Média<br/>
-RF08 - O sistema deve permitir o cadastro de mestre, com seus requisitos próprios - Alta<br/>
-RF09 - O sistema deve permitir que  o mestre tenha acesso a um guia de como gerir o jogo - Média<br/>
-RF10 - O sistema deve permitir o cadastro de mapas e seus próprios monstros - Baixa<br/>
-RF11 - O sistema deve permitir o cadastro de um sistema de recomenpsas gerados apartir da rolagem dos dados - Alta<br/>
-
+<br>
 ***2.2. Requisitos Não Funcionais***
-RNF01 - O sistema deve ter suporte de banco de dados robusto - Alta<br/>
-RNF02 - O sistema deve possuir salvamento automatico para evitar perda de dados - Alta<br/>
-RNF03 - O sistema deve funcionar em sistemas operacionais Android e IOS - Baixa<br/>
-RNF04 - O sistema deve funcionar em qualquer sistema operacional Windows e/ou Linux - Baixa<br/>
-RNF05 - O sistema deve ter um acesso de usuário (login) em menos de 2 (dois) segundos - Média<br/>
-RNF06 - O sistema não pode permitir que um usuário (jogador) acesse a ficha de outro jogador - Alta<br/>
-RNF07 - O sistema não deve permitir a alteração do mapa, exceto o mestre - Baixa<br/>
-RNF08 - O sistema deve permitir o carregamento das telas e suas informações em menos de 5 (cinco) segundos - Alta<br/>
-RNF09 - O sistema deve permitir o acesso do aplicativo via Browser (navegador) - Baixa<br/>
-RNF10 - O sistema deve seguir as normas da LGPD (Lei geral de proteção de dados) - Alta<br/>
+|Identificador|<p style="text-align:center;">Descrição</p>|Prioridade|Dependencia|
+|:------:|-----------------------------------------------|:------:|:---------------:|
+|RNF01 | O sistema deve ter suporte de banco de dados robusto | Alta | |
+|RNF02 | O sistema deve possuir salvamento automatico para evitar perda de dados | Alta | |
+|RNF03 | O sistema deve funcionar em sistemas operacionais Android e IOS | Baixa
+|RNF04 | O sistema deve funcionar em qualquer sistema operacional Windows e/ou Linux | Baixa | |
+|RNF05 | O sistema deve ter um acesso de usuário (login) em menos de 2 (dois) segundos | Média | |
+|RNF06 | O sistema não pode permitir que um usuário (jogador) acesse a ficha de outro jogador | Alta | |
+|RNF07 | O sistema não deve permitir a alteração do mapa, exceto o mestre | Baixa | |
+|RNF08 | O sistema deve permitir o carregamento das telas e suas informações em menos de 5 (cinco) segundos | Alta | |
+|RNF09 | O sistema deve permitir o acesso do aplicativo via Browser (navegador) | Baixa | |
+|RNF10 | O sistema deve seguir as normas da LGPD (Lei geral de proteção de dados) | Alta | |
 
 ***2.3. Perguntas***
 
