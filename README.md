@@ -67,7 +67,7 @@ Persona 1:
 ***2.1. Requisitos Funcionais***
 
 <br>
-|Identificador|<p style="text-align:center;">Descrição</p>|Prioridade|Dependencia|
+|Identificador|Descrição|Prioridade|Dependencia|
 |:------:|-----------------------------------------------|:------:|:---------------:|
 | RF01 | O sistema deve permitir o cadastro de jogador | Alta | Dependente de: RNF01 |
 | RF02 | O sistema deve permitir deve permitir o login de jogador e mestre, por áreas separadas | Alta | Depende de RF01,RF08 |
