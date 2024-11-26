@@ -97,14 +97,14 @@ Persona 1:
 
 ***2.3. Perguntas***
 
-A - (Perguntas a ser feita para o mestre)
-1- Quanto o gerenciamento pela parte do mestre, acharia útil a implementação de um sistema para ajudar o percurso da história?
-2- O quanto você acha que o aplicativo pode ajudar a administrar historia ? 
-3- O quanto seria utíl para você usar marcador no mapa do jogo? 
-4- O quanto seria utíl para você o gerenciador de personagens como jogadores, monstros e npcs?
-5- O que você acharia interessante implementar na area do mestre.
-B- (Perguntas para o Jogador)
-6- O quanto seria util o aplicativo para ajuda na criação de ficha de personagem?
+A - (Perguntas a ser feita para o mestre)<br>
+1- Quanto o gerenciamento pela parte do mestre, acharia útil a implementação de um sistema para ajudar o percurso da história?<br>
+2- O quanto você acha que o aplicativo pode ajudar a administrar historia ? <br>
+3- O quanto seria utíl para você usar marcador no mapa do jogo? <br>
+4- O quanto seria utíl para você o gerenciador de personagens como jogadores, monstros e npcs?<br>
+5- O que você acharia interessante implementar na area do mestre.<br>
+B- (Perguntas para o Jogador)<br>
+6- O quanto seria util o aplicativo para ajuda na criação de ficha de personagem?<br>
 7- 
 
 ***2.4. Entrevista***
