@@ -114,9 +114,22 @@ B- (Perguntas para o Jogador)<br>
 *<Arquivo com as respostas do indivíduo entrevistado e link do drive com upload da gravação.>*
 
 ***2.5. Histórias do Usuário***
+Cenário: Antes
 
-*<Imagem, arquivo (PDF), link com as Histórias de Usuário.>*
+Paulo é um contador renomado que passa a maior parte do seu dia trabalhando, por conta  disso paulo é muito estressado
+e não tem paciencia para praticar seu hobby que é RPG de mesa.
+Paulo gostaria muito de jogar RPG de mesa novamente assim como era em sua infancia, porém, demandaria muito tempo de Paulo,
+pois, existem inumeras regras, historias e personagens.
+Paulo se sente frustrado por não conseguir exercer seu hobby, por conta disso acaba ficando cada vez mais cansativo seus dias.
 
+Cenário: Depois 
+
+Paulo é um contador renomado que passa a maior parte do seu dia trabalhando. Ele poderia ser uma pessoa estressada porém,
+Paulo Descobriu a pouco tempo o sistema DICE, que ajuda Paulo a exercer seu hobby que é o RPG de mesa.
+Assim como em sua infancia Paulo separa um dia da semana para mestrar uma seção de RPG, o sistema o ajuda muito pois ele
+não precisa passar horas estudando.
+Paulo se sente feliz por conseguir exercer seu hobby, por conta disso sua semana acaba sendo mais leve.
+  
 ***2.6. Diagramas de Caso de Uso e Especificações***
 
 *<Imagem, arquivo (PDF), link com Diagrama de Caso de Uso.>*
