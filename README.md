@@ -69,7 +69,7 @@ Persona 1:
 |:------:|-----------------------------------------------|:------:|:---------------:|
 | RF01 | O sistema deve permitir o cadastro de jogador | Alta | Dependente de: RNF01 |
 | RF02 | O sistema deve permitir deve permitir o login de jogador e mestre, por áreas separadas | Alta | Depende de RF01,RF08 |
-| RF03 | O sistema deve permitir deve conter avatares para manipulação do mestre | Média | |
+| RF03 | O sistema deve conter avatares para manipulação do mestre | Média | |
 | RF04 | O sistema deve permitir deve permitir a alteração da ficha dos jogadores | Alta | |
 | RF05 | O sistema deve permitir o armazenamento das fichas | Alta | | 
 | RF06 | O sistema deve conter um apontamento feito pelo mestre para que o jogadores tenham noção de onde estão no mapa | Baixa | | 
