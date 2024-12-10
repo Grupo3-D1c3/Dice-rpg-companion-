@@ -67,17 +67,17 @@ Persona 1:
 ***2.1. Requisitos Funcionais***
 |Identificador|<p style="text-align:center;">Descrição</p>|Prioridade|Dependencia|
 |:------:|-----------------------------------------------|:------:|:---------------:|
-| RF01 | O sistema deve permitir o cadastro de jogador | Alta | Dependente de: RNF01 |
-| RF02 | O sistema deve permitir deve permitir o login de jogador e mestre, por áreas separadas | Alta | Depende de RF01,RF08 |
-| RF03 | O sistema deve conter avatares para manipulação do mestre | Média | |
-| RF04 | O sistema deve permitir deve permitir a alteração da ficha dos jogadores | Alta | |
-| RF05 | O sistema deve permitir o armazenamento das fichas | Alta | | 
-| RF06 | O sistema deve conter um apontamento feito pelo mestre para que o jogadores tenham noção de onde estão no mapa | Baixa | | 
-| RF07 | O sistema deve permitir que os usuários solicitem a criação de vinculo (amizade) entre os jogadores | Média | |
-| RF08 | O sistema deve permitir o cadastro de mestre, com seus requisitos próprios | Alta | |
-| RF09 | O sistema deve permitir que o mestre tenha acesso a um guia de como gerir o jogo | Média | |
-| RF10 | O sistema deve permitir o cadastro de mapas e seus próprios monstros | Baixa | |
-| RF11 | O sistema deve permitir o cadastro de um sistema de recomenpsas gerados apartir da rolagem dos dados | Alta | |
+| RF01 | O sistema deve permitir o cadastro de jogador                                                                  | Alta  | Dependente de: RNF01 |
+| RF02 | O sistema deve permitir deve permitir o login de jogador e mestre, por áreas separadas                         | Alta  | Depende de RF01,RF08 |
+| RF03 | O sistema deve conter avatares para manipulação do mestre                                                      | Média |                      |
+| RF04 | O sistema deve permitir deve permitir a alteração da ficha dos jogadores                                       | Alta  |                      |
+| RF05 | O sistema deve permitir o armazenamento das fichas                                                             | Alta  |                      | 
+| RF06 | O sistema deve conter um apontamento feito pelo mestre para que o jogadores tenham noção de onde estão no mapa | Baixa |                      | 
+| RF07 | O sistema deve permitir que os usuários solicitem a criação de vinculo (amizade) entre os jogadores            | Média |                      |
+| RF08 | O sistema deve permitir o cadastro de mestre, com seus requisitos próprios                                     | Alta  |                      |
+| RF09 | O sistema deve permitir que o mestre tenha acesso a um guia de como gerir o jogo                               | Média |                      |
+| RF10 | O sistema deve permitir o cadastro de mapas e seus próprios monstros                                           | Alta  |                      |
+| RF11 | O sistema deve permitir o cadastro de um sistema de recomenpsas gerados apartir da rolagem dos dados           | Alta  |                      |
 
 <br>
 
