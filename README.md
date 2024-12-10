@@ -139,7 +139,7 @@ Paulo se sente feliz por conseguir exercer seu hobby, por conta disso sua semana
 
 *<Imagem, arquivo (PDF), link com Diagrama de Atividades.>*
 
-***2.8. Matrizes de Rastreabilidade***
+***2.8.  Diagramas de Classe***
 
 *<Imagem, arquivo (PDF), link com Matriz de Rastreabilidade.>*
 
