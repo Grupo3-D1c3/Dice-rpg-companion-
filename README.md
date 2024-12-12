@@ -133,7 +133,8 @@ Paulo se sente feliz por conseguir exercer seu hobby, por conta disso sua semana
   
 ***2.6. Diagramas de Caso de Uso e Especificações***
 
-*<Imagem, arquivo (PDF), link com Diagrama de Caso de Uso.>*
+[Descrição_ Casos_De_Uso(D1CE).odt](https://github.com/user-attachments/files/18118807/Descricao_.Casos_De_Uso.D1CE.odt)
+
 
 ***2.7. Diagramas de Atividades***
 
