@@ -136,14 +136,6 @@ Paulo se sente feliz por conseguir exercer seu hobby, por conta disso sua semana
 [Descrição_ Casos_De_Uso(D1CE).odt](https://github.com/user-attachments/files/18118807/Descricao_.Casos_De_Uso.D1CE.odt)
 ![asdasdasdasd](https://github.com/user-attachments/assets/3adf1b87-ad37-4a72-8c27-373b257c3715)
 
-
-***2.7. Diagramas de Atividades***
-
-*<Imagem, arquivo (PDF), link com Diagrama de Atividades.>*
-
-***2.8.  Diagramas de Classe***
-[d1c3 (1).pdf](https://github.com/user-attachments/files/18118742/d1c3.1.pdf)
-
 <!-- raw html -->
 <table border="1 | 0" style="max-width:600px;"> 
     <tbody>
@@ -193,6 +185,15 @@ Paulo se sente feliz por conseguir exercer seu hobby, por conta disso sua semana
         </tr>                 
     </tbody>
 </table>
+
+***2.7. Diagramas de Atividades***
+
+*<Imagem, arquivo (PDF), link com Diagrama de Atividades.>*
+
+***2.8.  Diagramas de Classe***
+[d1c3 (1).pdf](https://github.com/user-attachments/files/18118742/d1c3.1.pdf)
+
+
 
 ***2.9. Protótipos***
 
