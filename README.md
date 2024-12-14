@@ -137,7 +137,7 @@ Paulo se sente feliz por conseguir exercer seu hobby, por conta disso sua semana
 ![asdasdasdasd](https://github.com/user-attachments/assets/3adf1b87-ad37-4a72-8c27-373b257c3715)
 
 <!-- raw html -->
-<table border="1 | 0" style="max-width:600px;"> 
+<table border="1 | 0" style="max-width:550px;"> 
     <tbody>
         <tr>
             <td>ID:</td>
