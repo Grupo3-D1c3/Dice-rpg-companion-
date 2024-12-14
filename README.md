@@ -144,7 +144,55 @@ Paulo se sente feliz por conseguir exercer seu hobby, por conta disso sua semana
 ***2.8.  Diagramas de Classe***
 [d1c3 (1).pdf](https://github.com/user-attachments/files/18118742/d1c3.1.pdf)
 
-
+<!-- raw html -->
+<table border="1 | 0" style="max-width:600px;"> 
+    <tbody>
+        <tr>
+            <td>ID:</td>
+            <td>001</td>
+        </tr>
+        <tr>
+            <td>Nome do caso de uso:</td>
+            <td>Solicitação de amizade</td>
+        </tr>
+        <tr>
+            <td>Atores:</td>
+            <td>Mestre, Jogador</td>
+        </tr>
+        <tr>
+            <td>Visão Geral:</td>
+            <td>Esse caso de uso descreve como o mestre ou jogador envia uma solicitação de amizade no sistema.</td>
+        </tr>  
+        <tr>
+            <td colspan="2">Cenário de Sucesso Principal</td>
+        </tr> 
+        <tr>
+            <td colspan="2">
+                1. O caso de uso começa com o jogador ou o mestre abrindo a aba de amizades<br>
+                2. O jogador ou o mestre escolhe a opção “Solicitar Amizade” no menu de amizades.<br>
+                3. O sistema aciona o gerenciador de amigos e pede para o usuário digitar o nome do outro usuário.<br>
+                4. O gerenciador de amigos envia uma solicitação de amizade para o usuário desejado.<br>
+                5. O sistema espera a confirmação ou a negação da solicitação.<br>
+                6. O sistema informa o usuário q foi solicitado e oque solicitou se foi aceito ou negado.<br>
+                7. No caso de confirmação da solicitação o sistema adiciona o usuário solicitado na lista de amigos do usuário solicitante.<br>
+                8. O caso de uso termina.<br>
+            </td>
+        </tr>
+         <tr>
+            <td colspan="2">Extensões</td>
+        </tr> 
+        <tr>
+            <td colspan="2">
+                ▪ E.1. No Passo 3, caso o sistema não consiga encontrar o nome do usuário digitado.<br>
+                    • E.1.1. O sistema mostra uma mensagem de “USUARIO NÃO ENCONTRADO”.<br>
+                    • E.1.2. O sistema abre novamente a caixa para digitar o nome do usuario.<br>
+                    • E.1.3. O jogador ou mestre insere o nome do usuario.<br>
+                    • E.1.4. O caso de uso retorna ao Passo 6.<br>
+                    • O caso de uso termina.<br>
+            </td>
+        </tr>                 
+    </tbody>
+</table>
 
 ***2.9. Protótipos***
 
