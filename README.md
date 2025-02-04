@@ -191,7 +191,7 @@ Paulo se sente feliz por conseguir exercer seu hobby, por conta disso sua semana
 *<Imagem, arquivo (PDF), link com Diagrama de Atividades.>*
 
 ***2.8.  Diagramas de Classe***
-![d1c3 (1).pdf](https://github.com/user-attachments/files/18118742/d1c3.1.pdf)
+![d1c3 (1).pdf](https://github.com/user-attachments/assets/18118742/d1c3.1.pdf)
 
 
 
